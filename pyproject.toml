@@ -1,0 +1,72 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "remote-job-finder"
+version = "1.0.0"
+description = "Finds remote jobs for any role or CV and ranks them by your actual chance of a reply"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+keywords = ["jobs", "job-search", "remote-work", "mcp", "cv"]
+
+dependencies = [
+    "requests>=2.31.0",
+    "openpyxl>=3.1.0",
+    "python-dateutil>=2.8.2",
+    # Windows ships no IANA database, so `zoneinfo` cannot resolve a single
+    # region name without this. Importing config would fail outright.
+    "tzdata; sys_platform == 'win32'",
+]
+
+[project.optional-dependencies]
+# The Claude layer: custom searches, CV ranking, eligibility adjudication.
+ai = ["anthropic>=0.116.0"]
+# The MCP server, for Claude Code / Claude Desktop / Cursor / Windsurf.
+mcp = ["mcp>=1.2.0"]
+# Reading a CV straight from a PDF.
+pdf = ["pypdf>=4.0.0"]
+# Everything a user needs.
+all = ["anthropic>=0.116.0", "mcp>=1.2.0", "pypdf>=4.0.0"]
+# Running the test suite and the linter.
+dev = ["pytest>=8.0.0", "pytest-subtests>=0.12.0", "ruff>=0.6.0"]
+
+[project.scripts]
+# `jobfinder daily --query "ios"` after an install.
+jobfinder = "job_agent.__main__:main"
+# The MCP entry point clients are pointed at.
+jobfinder-mcp = "job_agent.mcp_server:main"
+
+[tool.setuptools]
+packages = ["job_agent", "job_agent.sources"]
+
+[tool.setuptools.package-data]
+job_agent = ["../data/company_boards.json", "../data/sample_jobs.json"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["F", "E", "W", "B", "SIM", "C4", "RET", "UP", "PIE"]
+ignore = [
+    # A rule list is a lambda's whole point; the shared signature is the contract.
+    "ARG005",
+    # Nested `with` reads better than one long line in several places here.
+    "SIM117",
+    # Nesting expresses "does this apply?" then "which case is it?". Collapsing
+    # those into one condition makes the intent harder to read, not easier.
+    "SIM102",
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Long alternation regexes read worse wrapped; this module is vocabulary data.
+"job_agent/config.py" = ["E501"]
+# Aligned style tables and CSS: the long line is the readable form.
+"job_agent/report_excel.py" = ["E501"]
+"job_agent/report_html.py" = ["E501"]
+# `%` beats `.format` in a regex: brace escaping would double every {n,m}.
+"job_agent/classify.py" = ["UP031"]
+# Tests spell out `dict(...)` and nest context managers for readability.
+"tests/*" = ["C408", "SIM117", "E501"]

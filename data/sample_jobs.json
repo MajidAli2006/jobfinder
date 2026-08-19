@@ -1,0 +1,523 @@
+[
+  {
+    "id": "fx-001",
+    "source": "fixtures",
+    "title": "Senior Flutter Engineer",
+    "company": "Kestrel Payments",
+    "location": "Remote (UK)",
+    "days_ago": 0,
+    "employment_type": "Full-time",
+    "salary_min": 75000,
+    "salary_max": 95000,
+    "salary_currency": "GBP",
+    "url": "https://careers.kestrelpayments.com/jobs/senior-flutter-engineer",
+    "apply_url": "https://careers.kestrelpayments.com/jobs/senior-flutter-engineer/apply",
+    "company_website": "https://kestrelpayments.com",
+    "tags": [
+      "flutter",
+      "dart",
+      "fintech",
+      "remote"
+    ],
+    "description": "Kestrel Payments is a UK open banking scale-up. This role is fully remote within the United Kingdom - our team is distributed and we have no office attendance requirement. You will own our Flutter mobile app end to end. Requirements: 5+ years of mobile development, strong Flutter and Dart, BLoC/Cubit state management, Clean Architecture, REST APIs and GraphQL, Dio, Firebase, deep links, and a solid grounding in authentication and mobile security. We run GitLab CI with Fastlane for releases and expect strong unit and integration testing plus accessibility awareness. Salary GBP 75,000 - 95,000. Questions? Email careers@kestrelpayments.com or speak to our Head of Engineering, Priya Raman."
+  },
+  {
+    "id": "fx-002",
+    "source": "fixtures",
+    "title": "Flutter Developer - Contract (Outside IR35)",
+    "company": "Northwind Digital",
+    "location": "Fully remote, United Kingdom",
+    "days_ago": 1,
+    "employment_type": "Contract",
+    "salary_raw": "£475 - £550 per day",
+    "url": "https://www.northwinddigital.co.uk/careers/flutter-contract",
+    "company_website": "https://www.northwinddigital.co.uk",
+    "tags": [
+      "flutter",
+      "contract",
+      "ir35"
+    ],
+    "description": "6 month contract, outside IR35, day rate £475 - £550 per day. 100% remote - UK based candidates only, no office attendance. Building a Flutter banking application for a tier one client. Must have proven Flutter and Dart experience, BLoC, Clean Architecture, Dio, REST APIs, and CI/CD with GitLab CI and Fastlane. Experience in fintech or banking is essential. Contact Dan Whitfield, Delivery Manager, at dan.whitfield@northwinddigital.co.uk."
+  },
+  {
+    "id": "fx-003",
+    "source": "fixtures",
+    "title": "Senior Mobile Engineer (Flutter)",
+    "company": "Lumen Health",
+    "location": "Remote - Worldwide",
+    "days_ago": 2,
+    "employment_type": "Full-time",
+    "salary_min": 90000,
+    "salary_max": 120000,
+    "salary_currency": "USD",
+    "url": "https://jobs.lumenhealth.io/senior-mobile-engineer",
+    "company_website": "https://lumenhealth.io",
+    "tags": [
+      "flutter",
+      "healthtech",
+      "series a"
+    ],
+    "description": "Lumen Health is a Series A funded healthtech startup with a fully distributed team of 40 people. We hire from anywhere in the world - work from anywhere, any timezone, async first. You will build our patient-facing Flutter app for iOS, Android and web. Required: strong Flutter, Dart, state management (BLoC or Riverpod), REST APIs, GraphQL, Firebase, accessibility, and testing. Nice to have: Fastlane, deep links. Reach our founder at hello@lumenhealth.io."
+  },
+  {
+    "id": "fx-004",
+    "source": "fixtures",
+    "title": "Flutter Engineer",
+    "company": "Cobalt Mobility",
+    "location": "Remote - Europe",
+    "days_ago": 3,
+    "employment_type": "Full-time",
+    "salary_raw": "€70,000 - €90,000",
+    "url": "https://cobaltmobility.eu/careers/flutter-engineer",
+    "company_website": "https://cobaltmobility.eu",
+    "tags": [
+      "flutter",
+      "mobility"
+    ],
+    "description": "Remote across Europe. We hire in the UK, Germany, Spain and Portugal - UK candidates are welcome and we run a UK payroll entity. No office requirement, fully remote. You will work on our Flutter driver app. Requirements: 4+ years mobile, Flutter, Dart, GetX or BLoC, Clean Architecture, REST APIs, Dio, Firebase, deep links, unit and integration testing. We do quarterly team meetups in Berlin. Salary €70,000 - €90,000."
+  },
+  {
+    "id": "fx-005",
+    "source": "fixtures",
+    "title": "Freelance Flutter Developer - MVP Build",
+    "company": "Studio Verdant",
+    "location": "Work from anywhere",
+    "days_ago": 0,
+    "employment_type": "Freelance",
+    "salary_raw": "$450 per day",
+    "url": "https://studioverdant.com/gigs/flutter-mvp",
+    "company_website": "https://studioverdant.com",
+    "tags": [
+      "flutter",
+      "freelance",
+      "project"
+    ],
+    "description": "Project based freelance engagement, roughly 10 weeks, work from anywhere in the world. We are a small studio of 8 people looking for a freelance Flutter developer to build an MVP. Per project rate around $450 per day. Must be strong in Flutter, Dart, Firebase, REST APIs and app store releases. Send a portfolio to projects@studioverdant.com - our founder Marta Kowalski reviews every application personally."
+  },
+  {
+    "id": "fx-006",
+    "source": "fixtures",
+    "title": "Lead Flutter Developer - Digital Banking",
+    "company": "Aureus Bank",
+    "location": "Remote EMEA",
+    "days_ago": 4,
+    "employment_type": "Full-time",
+    "salary_min": 95000,
+    "salary_max": 115000,
+    "salary_currency": "GBP",
+    "url": "https://aureusbank.com/careers/lead-flutter-developer",
+    "company_website": "https://aureusbank.com",
+    "tags": [
+      "flutter",
+      "banking",
+      "lead"
+    ],
+    "description": "Remote across EMEA including the UK - UK based applicants are explicitly eligible and employed through our UK entity. This is a fully remote role with no office attendance. Lead a team of six Flutter engineers building our retail banking app. Required: 7+ years mobile development, expert Flutter and Dart, BLoC and Cubit, Clean Architecture, GraphQL, REST APIs, security and authentication, CI/CD, GitLab CI, Fastlane, accessibility, and a strong testing culture. Banking or fintech background required. Salary £95,000 - £115,000."
+  },
+  {
+    "id": "fx-007",
+    "source": "fixtures",
+    "title": "Part Time Flutter Developer",
+    "company": "Tidewell Labs",
+    "location": "Remote - Anywhere in the world",
+    "days_ago": 5,
+    "employment_type": "Part-time",
+    "salary_raw": "£40,000 pro rata",
+    "url": "https://tidewell.io/jobs/part-time-flutter",
+    "company_website": "https://tidewell.io",
+    "tags": [
+      "flutter",
+      "part time"
+    ],
+    "description": "20 hours a week, part-time, fully remote from anywhere in the world. Bootstrapped and profitable team of 12. You will maintain and extend our Flutter app. Flutter and Dart required, Firebase and REST APIs required, testing desirable. Email jobs@tidewell.io."
+  },
+  {
+    "id": "fx-008",
+    "source": "fixtures",
+    "title": "Flutter Development Partner / White Label Agency Wanted",
+    "company": "Halberd Ventures",
+    "location": "Remote - Global",
+    "days_ago": 2,
+    "employment_type": "Contract",
+    "salary_raw": "Retainer, £8,000 - £15,000 per month",
+    "url": "https://halberdventures.com/rfp/flutter-partner",
+    "company_website": "https://halberdventures.com",
+    "tags": [
+      "partnership",
+      "agency",
+      "flutter"
+    ],
+    "description": "Request for proposal: we are looking for a Flutter development partner or software house to act as our white-label mobile team on a retainer. Global remote, work from anywhere, we contract with suppliers worldwide including the UK. Statement of work based, dedicated team model, staff augmentation possible. Must demonstrate Flutter, Dart, Clean Architecture, CI/CD and fintech delivery experience. Submit proposals to partnerships@halberdventures.com, attention Sofia Almeida, Head of Partnerships. Phone +44 20 7946 0321."
+  },
+  {
+    "id": "fx-009",
+    "source": "fixtures",
+    "title": "Flutter Engineer (International Contractor)",
+    "company": "Orbit Labs",
+    "location": "Remote",
+    "days_ago": 1,
+    "employment_type": "Contract",
+    "salary_raw": "$70 - $95 per hour",
+    "url": "https://orbitlabs.dev/careers/flutter-engineer",
+    "company_website": "https://orbitlabs.dev",
+    "tags": [
+      "flutter",
+      "contract",
+      "remote"
+    ],
+    "description": "Orbit Labs is a US company that hires international contractors through Deel as our employer of record. We work with contractors worldwide - anywhere in the world is fine, including the UK. $70 - $95 per hour. You will build Flutter applications for fintech clients. Required: Flutter, Dart, BLoC, Clean Architecture, REST APIs, GraphQL, Dio, Firebase, deep links, CI/CD, Fastlane, unit and integration testing. Overlap of four hours with EST is expected."
+  },
+  {
+    "id": "fx-010",
+    "source": "fixtures",
+    "title": "Mobile Engineer - Android & Flutter",
+    "company": "Sparrow Retail",
+    "location": "Work from home - England, Scotland, Wales",
+    "days_ago": 6,
+    "employment_type": "Full-time",
+    "salary_min": 65000,
+    "salary_max": 80000,
+    "salary_currency": "GBP",
+    "url": "https://sparrowretail.co.uk/careers/mobile-engineer",
+    "company_website": "https://sparrowretail.co.uk",
+    "tags": [
+      "android",
+      "flutter",
+      "ecommerce"
+    ],
+    "description": "Work from home anywhere in England, Scotland, Wales or Northern Ireland. No office, we are a remote-first e-commerce company. You will work across our Android native codebase and a growing Flutter module. Required: 5+ years mobile, Android, Kotlin, Flutter and Dart preferred, REST APIs, Firebase, CI/CD, accessibility, testing. Contact our talent team at careers@sparrowretail.co.uk."
+  },
+  {
+    "id": "fx-011",
+    "source": "fixtures",
+    "title": "Flutter Developer",
+    "company": "Meridian Softworks",
+    "location": "London, UK (Hybrid)",
+    "days_ago": 1,
+    "employment_type": "Full-time",
+    "url": "https://meridiansoftworks.com/jobs/flutter-developer",
+    "tags": [
+      "flutter",
+      "hybrid"
+    ],
+    "description": "Hybrid role - 3 days a week in the office in central London, 2 days remote. Must be able to commute to our Shoreditch office. Strong Flutter and Dart required."
+  },
+  {
+    "id": "fx-012",
+    "source": "fixtures",
+    "title": "Senior Flutter Engineer",
+    "company": "Cascade Financial",
+    "location": "Remote - US",
+    "days_ago": 0,
+    "employment_type": "Full-time",
+    "url": "https://cascadefinancial.com/careers/senior-flutter",
+    "tags": [
+      "flutter",
+      "fintech"
+    ],
+    "description": "Fully remote within the United States. Candidates must be authorized to work in the United States - we cannot offer sponsorship and cannot hire outside the US. Strong Flutter, Dart, BLoC and fintech experience required."
+  },
+  {
+    "id": "fx-013",
+    "source": "fixtures",
+    "title": "Flutter Developer (EU)",
+    "company": "Brightwater GmbH",
+    "location": "Remote - EU only",
+    "days_ago": 2,
+    "employment_type": "Full-time",
+    "url": "https://brightwater.de/jobs/flutter",
+    "tags": [
+      "flutter"
+    ],
+    "description": "Fully remote but EU only - you must hold an EU passport or have the right to work within the EEA. Flutter, Dart, Clean Architecture and Firebase required. Fintech product."
+  },
+  {
+    "id": "fx-014",
+    "source": "fixtures",
+    "title": "Flutter Engineer",
+    "company": "Nordvale Tech",
+    "location": "Remote - Europe",
+    "days_ago": 3,
+    "employment_type": "Full-time",
+    "url": "https://nordvale.tech/careers/flutter-engineer",
+    "company_website": "https://nordvale.tech",
+    "tags": [
+      "flutter"
+    ],
+    "description": "Remote within European time zones. We are a Series B fintech building a Flutter wallet app. Requirements: strong Flutter, Dart, BLoC, Clean Architecture, GraphQL, Dio, Firebase, CI/CD and testing. Contact talent@nordvale.tech."
+  },
+  {
+    "id": "fx-015",
+    "source": "fixtures",
+    "title": "Flutter Developer - Remote UK",
+    "company": "Old Post Digital",
+    "location": "Remote, United Kingdom",
+    "days_ago": 14,
+    "employment_type": "Full-time",
+    "url": "https://oldpostdigital.co.uk/jobs/flutter",
+    "tags": [
+      "flutter"
+    ],
+    "description": "Fully remote UK role. Flutter, Dart, BLoC, Firebase, CI/CD. Great opportunity but this advert has been live for a while."
+  },
+  {
+    "id": "fx-016",
+    "source": "fixtures",
+    "title": "Senior React Native Developer",
+    "company": "Pixelforge",
+    "location": "Remote - Worldwide",
+    "days_ago": 1,
+    "employment_type": "Full-time",
+    "url": "https://pixelforge.io/jobs/react-native",
+    "tags": [
+      "react native"
+    ],
+    "description": "Work from anywhere. Building cross-platform apps with React Native and TypeScript. No Flutter on this team."
+  },
+  {
+    "id": "fx-017",
+    "source": "fixtures",
+    "title": "Flutter Developer",
+    "company": "Gulf Apps LLC",
+    "location": "Dubai, UAE",
+    "days_ago": 2,
+    "employment_type": "Full-time",
+    "url": "https://gulfapps.ae/careers/flutter",
+    "tags": [
+      "flutter"
+    ],
+    "description": "On-site role based in our Dubai office. Relocation is required and a visa will be provided. Flutter and Dart experience essential."
+  },
+  {
+    "id": "fx-018",
+    "source": "fixtures",
+    "title": "Technical Recruiter - Mobile Engineering",
+    "company": "TalentBridge",
+    "location": "Remote - Worldwide",
+    "days_ago": 1,
+    "employment_type": "Full-time",
+    "url": "https://talentbridge.com/jobs/technical-recruiter",
+    "tags": [
+      "recruiting"
+    ],
+    "description": "Remote recruiter role hiring Flutter and mobile engineers for our clients. Work from anywhere."
+  },
+  {
+    "id": "fx-019",
+    "source": "fixtures",
+    "title": "Flutter Developer (m/w/d)",
+    "company": "Rheinsoft",
+    "location": "Remote",
+    "days_ago": 2,
+    "employment_type": "Full-time",
+    "url": "https://rheinsoft.de/karriere/flutter",
+    "tags": [
+      "flutter"
+    ],
+    "description": "Fully remote position. Candidates must reside in Germany for tax and payroll reasons. Flutter, Dart, BLoC and Firebase required."
+  },
+  {
+    "id": "fx-020",
+    "source": "fixtures",
+    "title": "Senior Flutter Engineer (Remote UK)",
+    "company": "Kestrel Payments Ltd",
+    "location": "Remote UK",
+    "days_ago": 0,
+    "employment_type": "Full-time",
+    "salary_min": 75000,
+    "salary_max": 95000,
+    "salary_currency": "GBP",
+    "url": "https://remoteok.com/remote-jobs/senior-flutter-engineer-kestrel-payments",
+    "company_website": "https://kestrelpayments.com",
+    "tags": [
+      "flutter",
+      "fintech"
+    ],
+    "description": "Kestrel Payments is a UK open banking scale-up. Fully remote within the United Kingdom, no office attendance requirement. Own our Flutter mobile app end to end. 5+ years mobile, strong Flutter and Dart, BLoC, Clean Architecture, REST APIs, GraphQL, Dio, Firebase, deep links, GitLab CI, Fastlane. Salary GBP 75,000 - 95,000."
+  },
+  {
+    "id": "fx-021",
+    "source": "fixtures",
+    "title": "Flutter Developer",
+    "company": "Vantage Systems",
+    "location": "Remote",
+    "days_ago": 1,
+    "employment_type": "Full-time",
+    "url": "https://vantagesystems.io/careers/flutter",
+    "company_website": "https://vantagesystems.io",
+    "tags": [
+      "flutter"
+    ],
+    "description": "Fully remote position building a Flutter application. Flutter, Dart, BLoC, Clean Architecture, REST APIs and Firebase required. Competitive salary and a great team."
+  },
+  {
+    "id": "fx-022",
+    "source": "fixtures",
+    "title": "Junior Flutter Developer",
+    "company": "Appleseed Studio",
+    "location": "Remote - Work from anywhere",
+    "days_ago": 3,
+    "employment_type": "Full-time",
+    "salary_raw": "$30,000 - $40,000",
+    "url": "https://appleseedstudio.com/jobs/junior-flutter",
+    "company_website": "https://appleseedstudio.com",
+    "tags": [
+      "flutter",
+      "junior"
+    ],
+    "description": "Entry level junior Flutter developer role, fully remote, work from anywhere in the world. 1-2 years experience with Flutter and Dart. Small startup team of 6, seed funded. Email hello@appleseedstudio.com."
+  },
+  {
+    "id": "fx-trade-001",
+    "source": "fixtures",
+    "title": "Qualified Electrician",
+    "company": "Harmattan Facilities",
+    "location": "Lagos, Nigeria",
+    "days_ago": 1,
+    "employment_type": "Full-time",
+    "salary_min": 4200000,
+    "salary_max": 5400000,
+    "salary_currency": "NGN",
+    "url": "https://careers.harmattanfm.example/jobs/electrician",
+    "company_website": "https://harmattanfm.example",
+    "tags": [
+      "electrician",
+      "electrical",
+      "on-site"
+    ],
+    "description": "Harmattan Facilities maintains commercial property across Lagos. We need a qualified electrician for electrical installation, testing and inspection on client sites. You will hold an electrical trade certificate and have at least 4 years of electrical work behind you. This is an on-site role based in Lagos with travel to sites across the city. Electrician tools provided."
+  },
+  {
+    "id": "fx-trade-002",
+    "source": "fixtures",
+    "title": "Domestic Plumber",
+    "company": "Pennine Heating",
+    "location": "Manchester, United Kingdom",
+    "days_ago": 0,
+    "employment_type": "Full-time",
+    "salary_min": 34000,
+    "salary_max": 42000,
+    "salary_currency": "GBP",
+    "url": "https://pennineheating.example/careers/plumber",
+    "company_website": "https://pennineheating.example",
+    "tags": [
+      "plumbing",
+      "gas",
+      "on-site"
+    ],
+    "description": "Pennine Heating fits and services domestic heating. We are hiring a plumber for boiler installs, bathroom fits and general plumbing repairs across Greater Manchester. Gas Safe registration and 3+ years of plumbing experience needed. Van and plumbing tools supplied. This is on-site work, not office based."
+  },
+  {
+    "id": "fx-trade-003",
+    "source": "fixtures",
+    "title": "Staff Nurse - Acute Medicine",
+    "company": "Rivergate Health",
+    "location": "Toronto, Canada",
+    "days_ago": 2,
+    "employment_type": "Full-time",
+    "salary_min": 82000,
+    "salary_max": 96000,
+    "salary_currency": "CAD",
+    "url": "https://rivergatehealth.example/jobs/staff-nurse",
+    "company_website": "https://rivergatehealth.example",
+    "tags": [
+      "nursing",
+      "healthcare",
+      "on-site"
+    ],
+    "description": "Rivergate Health is recruiting a registered nurse for our acute medical ward in Toronto. You will hold a nursing degree and current registration. Nursing experience in an acute setting is essential. Nursing staff work a rotating shift pattern on site. We cannot offer remote or hybrid working for nursing roles."
+  },
+  {
+    "id": "fx-trade-004",
+    "source": "fixtures",
+    "title": "HGV Class 1 Driver",
+    "company": "Southbound Logistics",
+    "location": "Birmingham, United Kingdom",
+    "days_ago": 1,
+    "employment_type": "Full-time",
+    "salary_min": 38000,
+    "salary_max": 45000,
+    "salary_currency": "GBP",
+    "url": "https://southboundlogistics.example/jobs/hgv-class-1",
+    "company_website": "https://southboundlogistics.example",
+    "tags": [
+      "hgv",
+      "driving",
+      "logistics"
+    ],
+    "description": "Southbound Logistics runs regional distribution from our Birmingham depot. We need an HGV Class 1 driver for trunking routes. A valid HGV licence, digital tachograph card and 2 years of driving experience are required. Driving is nights out Monday to Thursday. This is not a remote position."
+  },
+  {
+    "id": "fx-trade-005",
+    "source": "fixtures",
+    "title": "Secondary Mathematics Teacher",
+    "company": "Ardenway Academy",
+    "location": "Melbourne, Australia",
+    "days_ago": 3,
+    "employment_type": "Full-time",
+    "salary_min": 78000,
+    "salary_max": 104000,
+    "salary_currency": "AUD",
+    "url": "https://ardenway.example/vacancies/maths-teacher",
+    "company_website": "https://ardenway.example",
+    "tags": [
+      "teaching",
+      "education"
+    ],
+    "description": "Ardenway Academy seeks a teacher of mathematics from the start of next term. Qualified teacher status and registration are required. Teaching is across years 7 to 12, and teaching experience at senior level is welcome. Our teaching staff are on site each day; this is a classroom teaching role."
+  },
+  {
+    "id": "fx-trade-006",
+    "source": "fixtures",
+    "title": "Site Carpenter",
+    "company": "Brackwell Construction",
+    "location": "Berlin, Germany",
+    "days_ago": 4,
+    "employment_type": "Contract",
+    "salary_raw": "€240 per day",
+    "url": "https://brackwell.example/jobs/site-carpenter",
+    "company_website": "https://brackwell.example",
+    "tags": [
+      "carpentry",
+      "construction",
+      "contract"
+    ],
+    "description": "Brackwell Construction is fitting out a mixed-use development in Berlin. We need a site carpenter for first and second fix carpentry. Carpentry qualifications and 5 years of carpentry on commercial sites required. This is an on-site contract paid at a day rate."
+  },
+  {
+    "id": "fx-trade-007",
+    "source": "fixtures",
+    "title": "Remote Customer Support Specialist",
+    "company": "Wayfarer Tools",
+    "location": "Remote - Worldwide",
+    "days_ago": 0,
+    "employment_type": "Full-time",
+    "salary_min": 42000,
+    "salary_max": 55000,
+    "salary_currency": "USD",
+    "url": "https://wayfarertools.example/careers/support",
+    "company_website": "https://wayfarertools.example",
+    "tags": [
+      "support",
+      "remote"
+    ],
+    "description": "Wayfarer Tools is hiring a customer support specialist. This role is fully remote and open worldwide - work from anywhere. You will handle support tickets, write help documentation and work with our engineers on recurring support issues. Two years of customer support experience preferred."
+  },
+  {
+    "id": "fx-trade-008",
+    "source": "fixtures",
+    "title": "Warehouse Operative",
+    "company": "Calder Distribution",
+    "location": "Leeds, United Kingdom",
+    "days_ago": 2,
+    "employment_type": "Part-time",
+    "url": "https://calderdistribution.example/jobs/warehouse-operative",
+    "company_website": "https://calderdistribution.example",
+    "tags": [
+      "warehouse",
+      "logistics",
+      "part-time"
+    ],
+    "description": "Calder Distribution needs a warehouse operative for our Leeds site. Warehouse duties include picking, packing and loading. Forklift certification is useful but not essential - warehouse training is provided. Part-time hours across afternoons and weekends, on site."
+  }
+]
