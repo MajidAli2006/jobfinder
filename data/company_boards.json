@@ -1,0 +1,543 @@
+[
+  {
+    "type": "greenhouse",
+    "token": "verygoodventures",
+    "name": "Very Good Ventures",
+    "website": "https://verygood.ventures",
+    "note": "Leading Flutter consultancy - highest priority",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "nubank",
+    "name": "Nubank",
+    "website": "https://nubank.com.br",
+    "note": "Large Flutter shop (roles mostly Brazil-based)",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "canonical",
+    "name": "Canonical",
+    "website": "https://canonical.com",
+    "note": "Uses Flutter for Ubuntu; home-based worldwide",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "monzo",
+    "name": "Monzo",
+    "website": "https://monzo.com",
+    "region": "United Kingdom",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "sumup",
+    "name": "SumUp",
+    "website": "https://sumup.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "adyen",
+    "name": "Adyen",
+    "website": "https://adyen.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "stripe",
+    "name": "Stripe",
+    "website": "https://stripe.com",
+    "region": "United States",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "block",
+    "name": "Block",
+    "website": "https://block.xyz",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "form3",
+    "name": "Form3",
+    "website": "https://form3.tech",
+    "region": "United Kingdom",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "gocardless",
+    "name": "GoCardless",
+    "website": "https://gocardless.com",
+    "region": "United Kingdom",
+    "sector": "tech"
+  },
+  {
+    "type": "lever",
+    "token": "zopa",
+    "name": "Zopa",
+    "website": "https://zopa.com",
+    "region": "United Kingdom",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "freetrade",
+    "name": "Freetrade",
+    "website": "https://freetrade.io",
+    "region": "United Kingdom",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "marshmallow",
+    "name": "Marshmallow",
+    "website": "https://marshmallow.com",
+    "region": "United Kingdom",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "paddle",
+    "name": "Paddle",
+    "website": "https://paddle.com",
+    "region": "United Kingdom",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "deliveroo",
+    "name": "Deliveroo",
+    "website": "https://deliveroo.co.uk",
+    "region": "United Kingdom",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "wolt",
+    "name": "Wolt",
+    "website": "https://wolt.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "careem",
+    "name": "Careem",
+    "website": "https://careem.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "figma",
+    "name": "Figma",
+    "website": "https://figma.com",
+    "region": "United States",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "linear",
+    "name": "Linear",
+    "website": "https://linear.app",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "notion",
+    "name": "Notion",
+    "website": "https://notion.so",
+    "region": "United States",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "mattermost",
+    "name": "Mattermost",
+    "website": "https://mattermost.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "lever",
+    "token": "sonarsource",
+    "name": "Sonar",
+    "website": "https://sonarsource.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "elastic",
+    "name": "Elastic",
+    "website": "https://elastic.co",
+    "region": "United States",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "gitlab",
+    "name": "GitLab",
+    "website": "https://gitlab.com",
+    "region": "United States",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "vercel",
+    "name": "Vercel",
+    "website": "https://vercel.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "supabase",
+    "name": "Supabase",
+    "website": "https://supabase.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "posthog",
+    "name": "PostHog",
+    "website": "https://posthog.com",
+    "region": "United States",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "n8n",
+    "name": "n8n",
+    "website": "https://n8n.io",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "railway",
+    "name": "Railway",
+    "website": "https://railway.app",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "remotecom",
+    "name": "Remote.com",
+    "website": "https://remote.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "oyster",
+    "name": "Oyster HR",
+    "website": "https://oysterhr.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "zapier",
+    "name": "Zapier",
+    "website": "https://zapier.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "buffer",
+    "name": "Buffer",
+    "website": "https://buffer.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "lever",
+    "token": "toptal",
+    "name": "Toptal",
+    "website": "https://toptal.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "lever",
+    "token": "aircall",
+    "name": "Aircall",
+    "website": "https://aircall.io",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "lever",
+    "token": "pipedrive",
+    "name": "Pipedrive",
+    "website": "https://pipedrive.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "turing",
+    "name": "Turing",
+    "website": "https://turing.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "andela",
+    "name": "Andela",
+    "website": "https://andela.com",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "flutterflow",
+    "name": "FlutterFlow",
+    "website": "https://flutterflow.io",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "revenuecat",
+    "name": "RevenueCat",
+    "website": "https://www.revenuecat.com/",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "spruceid",
+    "name": "SpruceID",
+    "website": "https://www.spruceid.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "finch",
+    "name": "Finch",
+    "website": "https://tryfinch.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "axle",
+    "name": "Axle",
+    "website": "https://axle.insure",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "gigs",
+    "name": "Gigs",
+    "website": "https://gigs.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "agency",
+    "name": "Agency",
+    "website": "https://GetAgency.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "homebase",
+    "name": "Homebase",
+    "website": "http://www.gethomebase.com/",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "titan",
+    "name": "Titan",
+    "website": "http://www.titan.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "ziina",
+    "name": "Ziina",
+    "website": "https://www.ziina.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "lever",
+    "token": "thunkable",
+    "name": "Thunkable",
+    "website": "http://thunkable.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "vetcove",
+    "name": "Vetcove",
+    "website": "https://www.vetcove.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "bree",
+    "name": "Bree",
+    "website": "https://www.trybree.com/",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "algolia",
+    "name": "Algolia",
+    "website": "http://www.algolia.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "taktile",
+    "name": "Taktile",
+    "website": "http://www.taktile.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "flex",
+    "name": "Flex",
+    "website": "https://www.withflex.com/shop",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "novacredit",
+    "name": "Nova Credit",
+    "website": "http://www.novacredit.com/",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "alpaca",
+    "name": "Alpaca",
+    "website": "https://alpaca.markets/",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "humaninterest",
+    "name": "Human Interest",
+    "website": "http://humaninterest.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "lever",
+    "token": "fampay",
+    "name": "FamPay",
+    "website": "https://fampay.in",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "xendit",
+    "name": "Xendit",
+    "website": "https://www.xendit.co/",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "cointracker",
+    "name": "CoinTracker",
+    "website": "https://cointracker.com",
+    "note": "YC startup, actively hiring",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "skelar",
+    "name": "Skelar",
+    "website": "https://skelar.com",
+    "note": "Venture builder shipping consumer mobile apps",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "kalshi",
+    "name": "Kalshi",
+    "website": "https://kalshi.com",
+    "note": "Fintech/prediction markets - strong mobile team",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "greenhouse",
+    "token": "fireblocks",
+    "name": "Fireblocks",
+    "website": "https://fireblocks.com",
+    "note": "Digital-asset infrastructure; fintech domain match",
+    "region": "",
+    "sector": "tech"
+  },
+  {
+    "type": "ashby",
+    "token": "reaktor",
+    "name": "Reaktor",
+    "website": "https://reaktor.com",
+    "note": "Nordic product consultancy with a mobile practice",
+    "region": "",
+    "sector": "tech"
+  }
+]
