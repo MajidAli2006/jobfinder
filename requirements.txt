@@ -1,0 +1,5 @@
+# Core dependencies
+requests>=2.31.0        # HTTP for every job source
+openpyxl>=3.1.0         # real .xlsx workbook generation
+python-dateutil>=2.8.2  # long-tail date parsing from job boards
+anthropic>=0.116.0     # optional: the Claude judgement layer (see README)

@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.egg-info/
+build/
+dist/
+*.py[cod]
+data/seen_jobs.sqlite3
+data/cache/
+reports/*.xlsx
+reports/*.csv
+reports/*.json
+reports/*.html
+.DS_Store
+.idea/
+.vscode/
+
+# local API keys — the glob matters: `.env` alone does not match
+# `.env.bak`, which exists in this project and holds real keys.
+.env
+.env.*
+!.env.example
+
+# Personal profile and private working notes — never published
+candidate.local.json
+HANDOFF.md
+
+# One-off manual research, superseded by job_agent/ and archived off-repo
+deep_run/
